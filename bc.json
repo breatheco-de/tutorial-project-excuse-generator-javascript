@@ -2,7 +2,7 @@
 	"title" : "Code an Excuse Generator in Javascript",
 	"slug" : "excuse-generator",
 	"status": "published",
-	"solution": "https://bitbucket.org/codingacademy/excuse-generator",
+	"solution": "https://github.com/breatheco-de/tutorial-project-excuse-generator-javascript/tree/solution",
 	"duration" : 4,
 	"translations": ["es", "us"],
 	"difficulty": "beginner",
