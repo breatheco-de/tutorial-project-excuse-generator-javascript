@@ -1,0 +1,20 @@
+{
+	"title" : "Code an Excuse Generator in Javascript",
+	"slug" : "excuse-generator",
+	"status": "published",
+	"solution": "https://bitbucket.org/codingacademy/excuse-generator",
+	"duration" : 4,
+	"translations": ["es", "us"],
+	"difficulty": "beginner",
+	"technologies": ["javascript", "html", "the-dom"],
+	"description" : "Disneyland for procrastinators. Learning Javascript? This excuse generator tutorial takes no more than 20 lines of code and can save you for the rest of your life!",
+	"talents": [
+		{ "badge": "identator", "points": 6 },
+		{ "badge": "tag-master", "points": 3 },
+		{ "badge": "window-lover", "points": 3 },
+		{ "badge": "mouse-god", "points": 3 },
+		{ "badge": "source-inspector", "points": 5 },
+		{ "badge": "abc", "points": 5 },
+		{ "badge": "functional-developer", "points": 5 }
+	]
+}
