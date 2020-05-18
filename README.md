@@ -11,13 +11,13 @@ We wanted a project that used very little Javascript but still with a very fun a
 
 ## Instructions
 
-Please create a small website that generates an excuse each time a button is pressed, it has to look like this: [Checkout the demo animation](https://projects.breatheco.de/json?slug=excuse-generator&preview).
+Please create a small website that generates an excuse each time a button is pressed, it has to look like this: [Checkout the demo animation](https://github.com/breatheco-de/tutorial-project-excuse-generator-javascript/blob/master/preview.gif?raw=true).
 
 ## Discuss with your classmates the strategy first
 
 How can we generate an excuse? How are sentences build?
 
-![Excuse generator explanation](https://github.com/breatheco-de/projects/blob/master/p/javascript/beginner/excuse-generator/explanation.gif?raw=true)
+![Excuse generator explanation](https://github.com/breatheco-de/tutorial-project-excuse-generator-javascript/blob/master/explanation.gif?raw=true)
 
 The idea is to generate each part of the sentence randomly to come up with great excuses!
 
