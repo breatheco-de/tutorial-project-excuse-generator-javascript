@@ -2,11 +2,11 @@
 
 Disneyland for procrastinators and lazy people. 
 
-This project is ideal to are avoiding someone annoying, it takes no more than 20 lines of code and it can save you for the rest of your life!
+This project is ideal for avoiding someone annoying, it takes no more than 20 lines of code and it can save you for the rest of your life!
 
 ## The Goal
 
-We wanted a project that used very little Javascript but still with a very fun application, the excuse generator takes
+We wanted a project that uses very little Javascript but still with a very fun application. The excuse generator takes
 20 lines of code, is super simple to understand and is the perfect first project for any beginner developer.
 
 ## Instructions
@@ -26,13 +26,13 @@ The idea is to generate each part of the sentence randomly to come up with great
 1. Create a index.html with one excuse hard-coded, no js, just one excuse in pure plain HTML.
 2. The excuse must be inside an HTML tag that has an id assinged, for example:
 ```html
-  <p id="excuse">My dog eat my homework</p>
+  <p id="excuse">My dog ate my homework</p>
 ```
 3. Using javascript, create a function that generates and returns a random excuse with the following structure:
 ```js
-let who = ['the dog','my granma','his turtle','my bird'];
-let what = ['eat','pissed','crushed','broked'];
-let when = ['before the class','right in time','when I finished','during my lunch','while I was praying'];
+let who = ['The dog','My grandma','His turtle','My bird'];
+let what = ['ate','peed','crushed','broke'];
+let when = ['before the class','right on time','when I finished','during my lunch','while I was praying'];
 ```
 4. To create a consistent excuse you have to concatenate one item from each array in the proper order.
 5. Call that function onLoad and set the excuse into the innerHTML of the #excuse HTML element.
