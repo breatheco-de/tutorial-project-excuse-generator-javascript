@@ -44,7 +44,9 @@ let when = ['before the class','right on time','when I finished','during my lunc
 HTML, CSS3, Sass, Javascript, Webpack.
 
 ## Fundamentals
+
 This exercise covers the following fundamentals:
+
 1. Using external Javascript files in your project.
 2. How to work with Arrays.
 3. Generating random numbers.
