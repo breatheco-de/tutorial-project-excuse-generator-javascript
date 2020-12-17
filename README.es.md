@@ -13,7 +13,7 @@ Queríamos un proyecto que usara muy poco Javascript pero que tuviese una aplica
 
 Crea un sitio web pequeño que genere una excusa cada vez que se presione un botón (vea la demostración de su mentor acerca de los detalles)
 
-Tiene que verse así: [Echa un vistazo a la animación de demostración.](https://projects.breatheco.de/json?slug=excuse-generator&preview).
+Tiene que verse así: [Echa un vistazo a la animación de demostración.](https://github.com/breatheco-de/tutorial-project-excuse-generator-javascript/blob/master/preview.gif?raw=true).
 
 ## Pista
 
