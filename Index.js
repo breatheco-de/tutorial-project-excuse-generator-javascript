@@ -1,19 +1,10 @@
-const path = require('path');
+window.onload= ()=> {
 
-module.exports = {
-  entry: './src/index.js',
-  output: {
-    path: path.resolve(__dirname, 'dist'),
-    filename: 'bundle.js',
-  },
-};
-
-window.onload = function(){
-this.document.querySelector("btn").addEventListner("click", () =>{
- document.querySelector('#theexcuse').innerHTML = geenerateExcuese();
+document.querySelector("btn").addEventListner("click", () =>{
+ document.querySelector('#excuse').innerHTML = geenerateExcuese();
 });
  
-console.log("Excuse code Generator")
+console.log("Any String");
 };
 
 let generateExcuse = () => {
