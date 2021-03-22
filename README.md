@@ -21,9 +21,20 @@ How can we generate an excuse? How are sentences build?
 
 The idea is to generate each part of the sentence randomly to come up with great excuses!
 
+## 🌱  How to start this project
+
+Do not clone this repository.
+
+1. The first step to start coding is cloning the [vanillajs boilerplate](https://github.com/4GeeksAcademy/vanillajs-hello) on your local computer or gitpod.
+
+a) If using Gitpod you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/vanillajs-hello).
+b) If working locally type the following command from your command line: `git clone https://github.com/4GeeksAcademy/vanillajs-hello`.
+
+💡 Important: Remember to create a new repository, update the remote, and upload the code to your new repository.
+
 ## Hint
 
-1. Create a index.html with one excuse hard-coded, no js, just one excuse in pure plain HTML.
+1. Update your index.html with one excuse hard-coded, no js, just one excuse in pure plain HTML.
 2. The excuse must be inside an HTML tag that has an id assinged, for example:
 ```html
   <p id="excuse">My dog ate my homework</p>
@@ -41,7 +52,7 @@ let when = ['before the class','right on time','when I finished','during my lunc
 
 ## Technologies
 
-HTML, CSS3, Sass, Javascript, Webpack.
+HTML, CSS3, Javascript, Webpack.
 
 ## Fundamentals
 
