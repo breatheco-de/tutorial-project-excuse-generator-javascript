@@ -9,6 +9,16 @@ Este proyecto es ideal para evitar alguien molestoso. No toma más de 20 líneas
 Queríamos un proyecto que usara muy poco Javascript pero que tuviese una aplicación muy divertida, el generador de excusas toma
 20 líneas de código, es super simple de entender y es el primer proyecto perfecto para cualquier desarrollador principiante.
 
+## 🌱  Cómo iniciar este proyecto
+
+No clones este repositorio. El primer paso para comenzar a codificar es clonar el [react.js boilerplate](https://github.com/4GeeksAcademy/react-hello) y tienes dos opciones: 
+
+a) Si usas Gitpod (recomendada) puedes clonar el boilerplate [clic aquí](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello).
+
+b) Si trabajas localmente, escribe el siguiente comando en tu terminal: `git clone https://github.com/4GeeksAcademy/react-hello`.
+
+💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+
 ## Instrucciones
 
 Crea un sitio web pequeño que genere una excusa cada vez que se presione un botón (vea la demostración de su mentor acerca de los detalles)
