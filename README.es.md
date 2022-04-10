@@ -13,7 +13,7 @@ Queríamos un proyecto que usara muy poco Javascript pero que tuviese una aplica
 
 No clones este repositorio. El primer paso para comenzar a codificar es clonar el [vanillajs boilerplate](https://github.com/4GeeksAcademy/vanillajs-hello) y tienes dos opciones: 
 
-a) Si usas Gitpod (recomendada) puedes clonar el boilerplate [clic aquí](hhttps://github.com/4GeeksAcademy/vanillajs-hello).
+a) Si usas Gitpod (recomendada) puedes clonar el boilerplate [clic aquí](https://github.com/4GeeksAcademy/vanillajs-hello).
 
 b) Si trabajas localmente, escribe el siguiente comando en tu terminal: `git clone https://github.com/4GeeksAcademy/vanillajs-hello`.
 
@@ -39,7 +39,7 @@ let what = ['eat','pissed','crushed','broked'];
 let when = ['before the class','right in time','when I finished','during my lunch','while I was praying'];
 ```
 4. Para crear una excusa consistente, tiene que concatenar un elemento de cada array o arreglo en el orden correcto.
-5. Llame a esa función onLoad y establezca la excusa en el innerHTML del elemento HTML #excuse.
+5. Llame a esa función `onLoad` y establezca la excusa en el innerHTML del elemento HTML #excuse.
 
 
 ## Tecnologías
