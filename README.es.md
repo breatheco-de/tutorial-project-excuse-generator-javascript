@@ -1,4 +1,4 @@
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  The Excuse Generator
+# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  El Generador de Excusas
 
 Disneyland para procrastinadores y perezosos.
 
