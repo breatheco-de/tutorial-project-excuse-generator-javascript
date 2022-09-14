@@ -35,7 +35,7 @@ b) If working locally type the following command from your command line: `git cl
 ## Hint
 
 1. Update your index.html with one excuse hard-coded, no js, just one excuse in pure plain HTML.
-2. The excuse must be inside an HTML tag that has an id assinged, for example:
+2. The excuse must be inside an HTML tag that has an id assigned, for example:
 ```html
   <p id="excuse">My dog ate my homework</p>
 ```
