@@ -42,6 +42,7 @@ let when = ['before the class','right in time','when I finished','during my lunc
 5. Llama a esa función `onLoad` y establezca la excusa en el innerHTML del elemento HTML `#excuse`.
 
 
+
 ## Tecnologías
 
 HTML, CSS3, Sass, Javascript, Webpack.
