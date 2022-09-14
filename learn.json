@@ -18,5 +18,7 @@
 		{ "badge": "source-inspector", "points": 5 },
 		{ "badge": "abc", "points": 5 },
 		{ "badge": "functional-developer", "points": 5 }
-	]
+	],
+    "autoPlay": false,
+    "projectType": "project"
 }
