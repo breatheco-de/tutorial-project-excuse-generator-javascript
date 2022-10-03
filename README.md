@@ -1,4 +1,6 @@
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  The Excuse Generator
+<!-- hide -->
+# The Excuse Generator
+<!-- endhide -->
 
 Disneyland for procrastinators and lazy people. 
 
