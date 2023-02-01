@@ -1,4 +1,6 @@
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  The Excuse Generator
+<!--hide-->
+# The Excuse Generator
+<!--endhide-->
 
 Disneylandia para procrastinadores y perezosos.
 
@@ -6,7 +8,7 @@ Este proyecto es ideal para evitar alguien molestoso. No toma más de 20 líneas
 
 ## La Meta
 
-Queríamos un proyecto que usara muy poco Javascript pero que tuviese una aplicación muy divertida, el generador de excusas toma
+Queríamos un proyecto que usara muy poco Javascript, pero que tuviese una aplicación muy divertida, el generador de excusas toma
 20 líneas de código, es super simple de entender y es el primer proyecto perfecto para cualquier desarrollador principiante.
 
 ## 🌱  Cómo iniciar este proyecto
