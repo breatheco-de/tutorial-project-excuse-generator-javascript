@@ -1,23 +1,29 @@
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  The Excuse Generator
+![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  The Excuse Generator
 
 Disneylandia para procrastinadores y perezosos.
 
 Este proyecto es ideal para evitar alguien molestoso. No toma más de 20 líneas de código y puede salvarte por el resto de tu vida.
 
-## La Meta
+## Objectivo
 
 Queríamos un proyecto que usara muy poco Javascript pero que tuviese una aplicación muy divertida, el generador de excusas toma
 20 líneas de código, es super simple de entender y es el primer proyecto perfecto para cualquier desarrollador principiante.
 
 ## 🌱  Cómo iniciar este proyecto
 
-No clones este repositorio. El primer paso para comenzar a codificar es clonar el [vanillajs boilerplate](https://github.com/4GeeksAcademy/vanillajs-hello) y tienes dos opciones: 
+No abras este repositorio, utilizaremos otro template para empezar a programar.
 
-a) Si usas Gitpod (recomendado) puedes clonar el boilerplate haciendo [clic aquí](https://github.com/4GeeksAcademy/vanillajs-hello).
+Recomendamos que abras el repositorio `vanillajs template` utilizando un ambiente como [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Como última opción puedes clonar el repositorio localmente en tu computador utilizando el comando `git clone`.
 
-b) Si trabajas localmente, escribe el siguiente comando en tu terminal: `git clone https://github.com/4GeeksAcademy/vanillajs-hello`.
+Este es el repositorio que debes abrir:
 
-💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+```
+https://github.com/4GeeksAcademy/vanillajs-hello
+```
+
+**👉 Sigue las siguientes instrucciones sobre** [cómo empezar un proyecto nuevo](https://4geeks.com/lesson/how-to-start-a-project).
+
+💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <tu nuevo url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
 
 ## Instrucciones
 
