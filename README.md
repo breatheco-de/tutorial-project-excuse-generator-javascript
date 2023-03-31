@@ -25,14 +25,17 @@ The idea is to generate each part of the sentence randomly to come up with great
 
 ## 🌱  How to start this project
 
-Do not clone this repository.
+Do not clone this repository because we are going to be using a different template.
 
-The first step to start coding is cloning the [vanillajs boilerplate](https://github.com/4GeeksAcademy/vanillajs-hello) on your local computer or gitpod.
+We recommend to open the `vanillajs template` repository using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively you can clone it to your local computer using the `git clone` command. This is the repository you need to open:
 
-a) If using Gitpod (recommended) you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/vanillajs-hello).  
-b) If working locally type the following command from your command line: `git clone https://github.com/4GeeksAcademy/vanillajs-hello`.  
+```
+https://github.com/4GeeksAcademy/vanillajs-hello
+```
 
-💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
+**👉 Please follow these steps** on [how to start a coding project](https://4geeks.com/lesson/how-to-start-a-project).
+
+💡 Important: Remember to save your code to github by creating a new repository, updating the remote (`git remote set-url origin <your new url>`), and uploading the code to your new repository using the `add`, `commit` and `push` commands from the git terminal.
 
 ## Hint
 
