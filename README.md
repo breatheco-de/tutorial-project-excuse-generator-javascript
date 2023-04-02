@@ -17,7 +17,7 @@ Please create a small website that generates an excuse each time a button is pre
 
 ## Discuss with your classmates the strategy first
 
-How can we generate an excuse? How are sentences build?
+How can we generate an excuse? How are sentences built?
 
 ![Excuse generator explanation](https://github.com/breatheco-de/tutorial-project-excuse-generator-javascript/blob/master/explanation.gif?raw=true)
 
@@ -27,15 +27,18 @@ The idea is to generate each part of the sentence randomly to come up with great
 
 Do not clone this repository because we are going to be using a different template.
 
-We recommend to open the `vanillajs template` repository using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively you can clone it to your local computer using the `git clone` command. This is the repository you need to open:
+We recommend opening the `vanillajs template` using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively, you can clone it on your local computer using the `git clone` command.
+
+This is the repository you need to open or clone:
 
 ```
 https://github.com/4GeeksAcademy/vanillajs-hello
 ```
 
-**👉 Please follow these steps** on [how to start a coding project](https://4geeks.com/lesson/how-to-start-a-project).
+**Please follow these steps on** [how to start a coding project](https://4geeks.com/lesson/how-to-start-a-project).
 
-💡 Important: Remember to save your code to github by creating a new repository, updating the remote (`git remote set-url origin <your new url>`), and uploading the code to your new repository using the `add`, `commit` and `push` commands from the git terminal.
+
+💡 Important: Remember to save and upload your code to GitHub by creating a new repository, updating the remote (`git remote set-url origin <your new url>`), and uploading the code to your new repository using the `add`, `commit` and `push` commands from the git terminal.
 
 ## Hint
 
@@ -54,7 +57,6 @@ let when = ['before the class','right on time','when I finished','during my lunc
 4. To create a consistent excuse you have to concatenate one item from each array in the proper order.
 5. Call that function onLoad and set the excuse into the innerHTML of the #excuse HTML element.
 
-
 ## Technologies
 
 HTML, CSS3, Javascript, Webpack.
@@ -69,3 +71,5 @@ This exercise covers the following fundamentals:
 4. Concatenating strings.
 5. Using functions (at least a bit).
 6. Working with events (at least a bit).
+
+This and many other projects are built by students as part of the 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and many other contributors. Find out more about our [Full Stack Developer Course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), and [Data Science Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).
