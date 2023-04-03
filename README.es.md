@@ -48,9 +48,10 @@ https://github.com/4GeeksAcademy/vanillajs-hello
 ```
 3. Usando javascript, crea una función que genere y devuelva una excusa aleatoria con la siguiente estructura:
 ```js
-let who = ['the dog','my granma','his turtle','my bird'];
-let what = ['eat','pissed','crushed','broked'];
-let when = ['before the class','right in time','when I finished','during my lunch','while I was praying'];
+let who = ['The dog','My grandma','His turtle','My bird'];
+let action = ['ate','peed','crushed','broke'];
+let what = ['my homework', 'the keys', 'the car'];
+let when = ['before the class','right on time','when I finished','during my lunch','while I was praying'];
 ```
 4. Para crear una excusa consistente, tienes que concatenar un elemento de cada array o arreglo en el orden correcto.
 5. Llama a esa función `onLoad` y establezca la excusa en el innerHTML del elemento HTML `#excuse`.
