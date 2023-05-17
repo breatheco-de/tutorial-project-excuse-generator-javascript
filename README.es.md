@@ -51,7 +51,7 @@ https://github.com/4GeeksAcademy/vanillajs-hello
 let who = ['The dog','My grandma','His turtle','My bird'];
 let action = ['ate','peed','crushed','broke'];
 let what = ['my homework', 'the keys', 'the car'];
-let when = ['before the class','right on time','when I finished','during my lunch','while I was praying'];
+let when = ['before the class','right on time','when I finished','during my lunch','while I was playing'];
 ```
 4. Para crear una excusa consistente, tienes que concatenar un elemento de cada array o arreglo en el orden correcto.
 5. Llama a esa función `onLoad` y establezca la excusa en el innerHTML del elemento HTML `#excuse`.
