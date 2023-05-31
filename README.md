@@ -40,7 +40,7 @@ https://github.com/4GeeksAcademy/vanillajs-hello
 
 > Important: Remember to save and upload your code to GitHub by creating a new repository, updating the remote (`git remote set-url origin <your new url>`), and uploading the code to your new repository using the `add`, `commit` and `push` commands from the git terminal.
 
-## 💡 Hint
+## 💡 Hints:
 
 1. Update your index.html with one excuse hard-coded, no JS, just one excuse in pure plain HTML.
 2. The excuse must be inside an HTML tag that has an id assigned, for example:
