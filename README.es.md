@@ -30,7 +30,7 @@ Recomendamos abrir el repositorio `vanillajs-hello` utilizando un entorno de des
 
 Este es el repositorio que necesitas abrir o clonar:
 
-```
+```text
 https://github.com/4GeeksAcademy/vanillajs-hello
 ```
 
