@@ -39,7 +39,7 @@ https://github.com/4GeeksAcademy/vanillajs-hello
 
 > Importante: Recuerda guardar y subir tu código a GitHub creando un nuevo repositorio, actualizando el remoto (`git remote set-url origin <your new url>`) y subiendo el código a tu nuevo repositorio usando los comandos `add`, `commit` y `push` desde la terminal de git.
 
-## 💡 Pista
+## 💡 Pistas:
 
 1. En el archivo index.html inventa una excusa nueva, sin JS, solo una excusa en HTML puro y simple.
 2. La excusa debe estar dentro de una etiqueta HTML que tenga un ID asignado, por ejemplo:
