@@ -26,7 +26,7 @@ Por favor, crea un pequeño sitio web que genere una excusa cada vez que se pres
 
 No clones este repositorio porque vamos a usar una plantilla diferente.
 
-Recomendamos abrir el repositorio `vanillajs-hello` utilizando un entorno de desarrollo como [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternativamente, puedes clonarlo en tu computadora local usando el comando `git clone`.
+Recomendamos abrir el repositorio `vanillajs-hello` utilizando un entorno de desarrollo como [Codespaces](https://4geeks.com/es/lesson/tutorial-de-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/es/lesson/como-utilizar-gitpod). Alternativamente, puedes clonarlo en tu computadora local usando el comando `git clone`.
 
 Este es el repositorio que necesitas abrir o clonar:
 
@@ -34,10 +34,8 @@ Este es el repositorio que necesitas abrir o clonar:
 https://github.com/4GeeksAcademy/vanillajs-hello
 ```
 
-**👉 Por favor sigue estos pasos** [cómo comenzar un proyecto de codificación](https://4geeks.com/lesson/how-to-start-a-project).
+**👉 Por favor sigue estos pasos sobre** [cómo comenzar un proyecto de programación.](https://4geeks.com/es/lesson/como-comenzar-un-proyecto-de-codificacion).
 
-
-> Importante: Recuerda guardar y subir tu código a GitHub creando un nuevo repositorio, actualizando el remoto (`git remote set-url origin <your new url>`) y subiendo el código a tu nuevo repositorio usando los comandos `add`, `commit` y `push` desde la terminal de git.
 
 ## 💡 Pistas:
 
