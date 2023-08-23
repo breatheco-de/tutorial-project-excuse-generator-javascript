@@ -4,16 +4,15 @@
 
 Disneyland for procrastinators and lazy people. 
 
-This project is ideal for avoiding someone annoying, it takes no more than 20 lines of code, and it can save you for the rest of your life!
+This project is ideal for avoiding someone annoying; it takes no more than 20 lines of code, and it can save you for the rest of your life!
 
 ## The Goal
 
-We wanted a project that uses very little JavaScript but still with a very fun application. The excuse generator takes
-20 lines of code, is super simple to understand and is the perfect first project for any beginner developer.
+We wanted a project that used very little JavaScript but still had a very fun application. The excuse generator takes 20 lines of code, is super simple to understand, and is the perfect first project for any beginner developer.
 
 ## 📝 Instructions:
 
-Please create a small website that generates an excuse each time a button is pressed, it has to look like this: [Checkout the demo animation](https://github.com/breatheco-de/tutorial-project-excuse-generator-javascript/blob/master/preview.gif?raw=true).
+1. Please create a small website that generates an excuse each time you refresh the page, it has to look like this: [Checkout the demo animation](https://github.com/breatheco-de/tutorial-project-excuse-generator-javascript/blob/master/preview.gif?raw=true).
 
 ## Discuss with your classmates the strategy first
 
@@ -40,20 +39,20 @@ https://github.com/4GeeksAcademy/vanillajs-hello
 
 ## 💡 Hints:
 
-1. Update your index.html with one excuse hard-coded, no JS, just one excuse in pure plain HTML.
-2. The excuse must be inside an HTML tag that has an id assigned, for example:
++ Update your `index.html` with one excuse hard-coded, no JS, just one excuse in pure plain HTML.
++ The excuse must be inside an HTML tag that has an `id` assigned, for example:
 ```html
   <p id="excuse">My dog ate my homework</p>
 ```
-3. Using JavaScript, create a function that generates and returns a random excuse with the following structure:
++ Using JavaScript, create a function that generates and returns a random excuse with the following structure:
 ```js
-let who = ['The dog', 'My grandma', 'His turtle', 'My bird'];
+let who = ['The dog', 'My grandma', 'The mailman', 'My bird'];
 let action = ['ate', 'peed', 'crushed', 'broke'];
-let what = ['my homework', 'the keys', 'the car'];
-let when = ['before the class', 'right on time', 'when I finished', 'during my lunch', 'while I was praying'];
+let what = ['my homework', 'my phone', 'the car'];
+let when = ['before the class', 'when I was sleeping', 'while I was exercising', 'during my lunch', 'while I was praying'];
 ```
-4. To create a consistent excuse, you have to concatenate one item from each array in the proper order.
-5. Call the function `onload` and set the excuse into the `innerHTML` of the `#excuse` HTML element.
++ To create a consistent excuse, you have to concatenate one item from each array in the proper order.
++ Call the function `onload` and set the excuse into the `innerHTML` of the `#excuse` HTML element.
 
 ## Technologies
 
@@ -63,8 +62,8 @@ HTML, CSS3, JavaScript, Webpack.
 
 This exercise covers the following fundamentals:
 
-1. Using external Javascript files in your project.
-2. How to work with Arrays.
+1. Using external JavaScript files in your project.
+2. How to work with arrays.
 3. Generating random numbers.
 4. Concatenating strings.
 5. Using functions (at least a bit).

@@ -12,7 +12,7 @@ Queríamos un proyecto que usara muy poco JavaScript, pero que tuviese una aplic
 
 ## 📝 Instrucciones:
 
-Por favor, crea un pequeño sitio web que genere una excusa cada vez que se presione un botón, debe verse así: [Vea la animación de demostración](https://github.com/breatheco-de/tutorial-project-excuse-generator-javascript/blob/master/preview.gif?raw=true).
+1. Por favor, crea un pequeño sitio web que genere una excusa cada vez que se refresca la página, debe verse así: [Vea la animación de demostración](https://github.com/breatheco-de/tutorial-project-excuse-generator-javascript/blob/master/preview.gif?raw=true).
 
 ## Discute con tus compañeros de clase la estrategia primero
 
@@ -39,20 +39,20 @@ https://github.com/4GeeksAcademy/vanillajs-hello
 
 ## 💡 Pistas:
 
-1. En el archivo index.html inventa una excusa nueva, sin JS, solo una excusa en HTML puro y simple.
-2. La excusa debe estar dentro de una etiqueta HTML que tenga un ID asignado, por ejemplo:
++ En el archivo `index.html` inventa una excusa nueva, sin JS, solo una excusa en HTML puro y simple.
++ La excusa debe estar dentro de una etiqueta HTML que tenga un `id` asignado, por ejemplo:
 ```html
-  <p id="excuse">My dog eat my homework</p>
+  <p id="excuse">My dog ate my homework</p>
 ```
-3. Usando JavaScript, crea una función que genere y devuelva una excusa aleatoria con la siguiente estructura:
++ Usando JavaScript, crea una función que genere y devuelva una excusa aleatoria con la siguiente estructura:
 ```js
-let who = ['The dog', 'My grandma', 'His turtle', 'My bird'];
+let who = ['The dog', 'My grandma', 'The mailman', 'My bird'];
 let action = ['ate', 'peed', 'crushed', 'broke'];
-let what = ['my homework', 'the keys', 'the car'];
-let when = ['before the class', 'right on time', 'when I finished', 'during my lunch', 'while I was praying'];
+let what = ['my homework', 'my phone', 'the car'];
+let when = ['before the class', 'when I was sleeping', 'while I was exercising', 'during my lunch', 'while I was praying'];
 ```
-4. Para crear una excusa consistente, tienes que concatenar un elemento de cada array o arreglo en el orden correcto.
-5. Usa la función `onload` y establece la excusa en el `innerHTML` del elemento HTML `#excuse`.
++ Para crear una excusa consistente, tienes que concatenar un elemento de cada array o arreglo en el orden correcto.
++ Usa la función `onload` y establece la excusa en el `innerHTML` del elemento HTML `#excuse`.
 
 ## Tecnologías
 
@@ -63,7 +63,7 @@ HTML, CSS3, JavaScript, Webpack.
 Este ejercicio cubre los siguientes fundamentos:
 
 1. Utilizar archivos JavaScript externos en tu proyecto.
-2. Cómo trabajar con arreglos/listas (Arrays).
+2. Cómo trabajar con arreglos/listas (arrays).
 3. Generar números al azar.
 4. Concatenar strings (cadenas).
 5. Utilizar funciones (al menos un poco).
