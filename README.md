@@ -12,7 +12,7 @@ We wanted a project that used very little JavaScript but still had a very fun ap
 
 ## 📝 Instructions:
 
-Please create a small website that generates an excuse each time a button is pressed, it has to look like this: [Checkout the demo animation](https://github.com/breatheco-de/tutorial-project-excuse-generator-javascript/blob/master/preview.gif?raw=true).
+Please create a small website that generates an excuse each time you refresh the page, it has to look like this: [Checkout the demo animation](https://github.com/breatheco-de/tutorial-project-excuse-generator-javascript/blob/master/preview.gif?raw=true).
 
 ## Discuss with your classmates the strategy first
 
