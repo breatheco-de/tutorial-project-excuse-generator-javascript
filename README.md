@@ -39,7 +39,7 @@ https://github.com/4GeeksAcademy/vanillajs-hello
 
 ## 💡 Hints:
 
-1. Update your index.html with one excuse hard-coded, no JS, just one excuse in pure plain HTML.
+1. Update your `index.html` with one excuse hard-coded, no JS, just one excuse in pure plain HTML.
 2. The excuse must be inside an HTML tag that has an `id` assigned, for example:
 ```html
   <p id="excuse">My dog ate my homework</p>
