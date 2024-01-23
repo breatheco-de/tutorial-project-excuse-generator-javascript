@@ -49,7 +49,7 @@ https://github.com/4GeeksAcademy/vanillajs-hello
 let who = ['The dog', 'My grandma', 'The mailman', 'My bird'];
 let action = ['ate', 'peed', 'crushed', 'broke'];
 let what = ['my homework', 'my phone', 'the car'];
-let when = ['before the class', 'when I was sleeping', 'while I was exercising', 'during my lunch', 'while I was praying'];
+let when = ['before the class', 'when I was sleeping', 'while I was exercising', 'during my lunch', 'while I was playing'];
 ```
 + To create a consistent excuse, you have to concatenate one item from each array in the proper order.
 + Call the function `onload` and set the excuse into the `innerHTML` of the `#excuse` HTML element.
