@@ -1,0 +1,34 @@
+{
+	"title": {
+		"us": "Code an Excuse Generator in JavaScript",
+		"es": "Generador de excusas en Javascript"
+	},
+	"slug": "excuse-generator",
+	"status": "published",
+	"video": {
+		"solution": {
+			"us": "https://www.youtube.com/watch?v=n43ORx4GMJ0"
+		}
+	},
+	"solution": "https://github.com/breatheco-de/tutorial-project-excuse-generator-javascript/tree/solution",
+	"duration": 4,
+	"preview": "https://github.com/breatheco-de/tutorial-project-excuse-generator-javascript/blob/master/preview.gif?raw=true",
+	"translations": ["es", "us"],
+	"difficulty": "beginner",
+	"technologies": ["javascript", "html", "the-dom"],
+	"description": {
+		"us": "Disneyland for procrastinators. Learning JavaScript? This excuse generator tutorial takes no more than 20 lines of code and can save you for the rest of your life!",
+		"es": "Disneylandia para los procrastinadores. ¿Aprendiendo Javascript? ¡Este tutorial para generar excusas no toma más de 20 líneas de código y puede salvarte por el resto de tu vida!"
+	},
+	"talents": [
+		{ "badge": "indentator", "points": 6 },
+		{ "badge": "tag-master", "points": 3 },
+		{ "badge": "window-lover", "points": 3 },
+		{ "badge": "mouse-god", "points": 3 },
+		{ "badge": "source-inspector", "points": 5 },
+		{ "badge": "abc", "points": 5 },
+		{ "badge": "functional-developer", "points": 5 }
+	],
+	"autoPlay": false,
+	"projectType": "project"
+}
