@@ -22,7 +22,7 @@ Queríamos un proyecto que usara muy poco JavaScript, pero que tuviese una aplic
 
 ¡La idea es generar cada parte de la oración al azar para encontrar grandes excusas!
 
-## 🌱 Cómo comenzar este proyecto
+## 🌱 Cómo comenzar este proyecto.
 
 No clones este repositorio porque vamos a usar una plantilla diferente.
 
