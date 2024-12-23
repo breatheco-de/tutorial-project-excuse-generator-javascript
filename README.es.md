@@ -22,6 +22,8 @@ Queríamos un proyecto que usara muy poco JavaScript, pero que tuviese una aplic
 
 ¡La idea es generar cada parte de la oración al azar para encontrar grandes excusas!
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱 Cómo comenzar este proyecto
 
 No clones este repositorio porque vamos a usar una plantilla diferente.
@@ -36,6 +38,7 @@ https://github.com/4GeeksAcademy/vanillajs-hello
 
 **👉 Por favor sigue estos pasos sobre** [cómo comenzar un proyecto de programación.](https://4geeks.com/es/lesson/como-comenzar-un-proyecto-de-codificacion).
 
+</onlyfor>
 
 ## 💡 Pistas:
 
