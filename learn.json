@@ -17,8 +17,8 @@
 	"difficulty": "beginner",
 	"technologies": ["javascript", "html", "the-dom"],
 	"description": {
-		"us": "Disneyland for procrastinators. Learning JavaScript? This excuse generator tutorial takes no more than 20 lines of code and can save you for the rest of your life!",
-		"es": "Disneylandia para los procrastinadores. ¿Aprendiendo Javascript? ¡Este tutorial para generar excusas no toma más de 20 líneas de código y puede salvarte por el resto de tu vida!"
+		"us": "Disneyland for procrastinators! Create an Excuse Generator using just 20 lines of JavaScript. This beginner-friendly project teaches arrays, random number generation, and string concatenation while building a tool to generate excuses.",
+		"es": "¡Disneylandia para procrastinadores! Crea un generador de excusas utilizando solo 20 líneas de JavaScript. Este proyecto apto para principiantes enseña arreglos, generación de números aleatorios y concatenación de cadenas, mientras construyes una herramienta para generar excusas."
 	},
 	"talents": [
 		{ "badge": "indentator", "points": 6 },
@@ -30,5 +30,8 @@
 		{ "badge": "functional-developer", "points": 5 }
 	],
 	"autoPlay": false,
-	"projectType": "project"
+	"projectType": "project",
+    "telemetry": {
+	"batch":"https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=180"
+    }
 }
