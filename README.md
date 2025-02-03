@@ -6,7 +6,7 @@ Disneyland for procrastinators and lazy people.
 
 This project is ideal for avoiding someone annoying; it takes no more than 20 lines of code, and it can save you for the rest of your life!
 
-## The Goal
+## The Goal:
 
 We wanted a project that used very little JavaScript but still had a very fun application. The excuse generator takes 20 lines of code, is super simple to understand, and is the perfect first project for any beginner developer.
 
