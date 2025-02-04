@@ -59,7 +59,7 @@ let when = ['before the class', 'when I was sleeping', 'while I was exercising',
 
 ## Technologies
 
-HTML, CSS3, JavaScript, Webpack.
+HTML, CSS3, JavaScript, Vite.
 
 ## Fundamentals
 
