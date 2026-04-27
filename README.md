@@ -22,7 +22,7 @@ How can we generate an excuse? How are sentences built?
 
 The idea is to generate each part of the sentence randomly to come up with great excuses!
 
-<onlyfor saas="false" withBanner="false">
+<how-to-start>
   
 ## 🌱 How to start this project
 
@@ -38,7 +38,7 @@ https://github.com/4GeeksAcademy/vanillajs-hello
 
 **👉 Please follow these steps on** [how to start a coding project](https://4geeks.com/lesson/how-to-start-a-project).
 
-</onlyfor>
+</how-to-start>
 
 ## 💡 Hints:
 
