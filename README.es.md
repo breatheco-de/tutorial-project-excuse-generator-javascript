@@ -8,7 +8,7 @@ Este proyecto es ideal para evitar alguien molestoso. No toma más de 20 líneas
 
 ## Objetivo
 
-Queríamos un proyecto que usara muy poco JavaScript, pero que tuviese una aplicación muy divertida, el generador de excusas toma 20 líneas de código, es super simple de entender y es el primer proyecto perfecto para cualquier desarrollador principiante.
+Queríamos un proyecto que usara muy poco JavaScript, pero que tuviese una aplicación muy divertida, el generador de excusas toma 20 líneas de código, es súper simple de entender y es el primer proyecto perfecto para cualquier desarrollador principiante.
 
 ## 📝 Instrucciones:
 
