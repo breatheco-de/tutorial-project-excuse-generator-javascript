@@ -66,7 +66,7 @@ HTML, CSS3, JavaScript, Vite.
 Este ejercicio cubre los siguientes fundamentos:
 
 1. Utilizar archivos JavaScript externos en tu proyecto.
-2. Cómo trabajar con arreglos/listas (arrays).
+2. Como trabajar con arreglos/listas (arrays).
 3. Generar números al azar.
 4. Concatenar strings (cadenas).
 5. Utilizar funciones (al menos un poco).
