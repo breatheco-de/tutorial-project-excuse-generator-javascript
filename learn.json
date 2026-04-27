@@ -1,0 +1,36 @@
+{
+    "slug": "excuse-generator",
+    "title": {
+        "us": "Code an Excuse Generator in JavaScript",
+        "es": "Generador de excusas en Javascript"
+    },
+    "description": {
+        "us": "Disneyland for procrastinators! Create an Excuse Generator using just 20 lines of JavaScript. This beginner-friendly project teaches arrays, random number generation, and string concatenation while building a tool to generate excuses.",
+        "es": "\u00a1Disneylandia para procrastinadores! Crea un generador de excusas utilizando solo 20 l\u00edneas de JavaScript. Este proyecto apto para principiantes ense\u00f1a arreglos, generaci\u00f3n de n\u00fameros aleatorios y concatenaci\u00f3n de cadenas, mientras construyes una herramienta para generar excusas."
+    },
+    "preview": "https://github.com/breatheco-de/tutorial-project-excuse-generator-javascript/blob/master/preview.gif?raw=true",
+    "difficulty": "BEGINNER",
+    "duration": 4,
+    "template_url": "https://github.com/4GeeksAcademy/vanillajs-hello",
+    "gitpod": true,
+    "technologies": [
+        "javascript",
+        "html-css",
+        "the-dom"
+    ],
+    "projectType": "project",
+    "solution": {
+        "us": "https://github.com/breatheco-de/tutorial-project-excuse-generator-javascript/tree/solution",
+        "es": "https://github.com/breatheco-de/tutorial-project-excuse-generator-javascript/tree/solution"
+    },
+    "video": {
+        "solution": "https://www.youtube.com/watch?v=n43ORx4GMJ0"
+    },
+    "delivery": {
+        "instructions": "",
+        "formats": [
+            "url"
+        ],
+        "regex": ""
+    }
+}
